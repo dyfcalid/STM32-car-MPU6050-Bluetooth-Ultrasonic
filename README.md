@@ -1,4 +1,4 @@
-<font  size=6 face="黑体">STM32小车</font> `DEMO`    
+STM32小车`DEMO`    
 ====
  [![License](https://img.shields.io/badge/License-Apache--2.0-brightgreen.svg)](https://www.apache.org/licenses/LICENSE-2.0) 　　　 ![](https://img.shields.io/badge/Version-v1.0.0-brightgreen.svg) 　　　 ![](https://img.shields.io/badge/IDE-keil-brightgreen.svg)    
        		
@@ -63,5 +63,5 @@
 //2019.12.27
   
 ****
-[如有帮助，请点个STAR](#STM32小车)  :star:
+[如有帮助，请点个STAR](#STM32小车`DEMO`)  :star:
 ----
