@@ -2,6 +2,7 @@ STM32小车`DEMO`
 ====
  [![License](https://img.shields.io/badge/License-Apache--2.0-brightgreen.svg)](https://www.apache.org/licenses/LICENSE-2.0) 　　　 ![](https://img.shields.io/badge/Version-v1.0.0-brightgreen.svg) 　　　 ![](https://img.shields.io/badge/IDE-keil-brightgreen.svg)    
        		
+[demo展示视频链接](https://www.bilibili.com/video/av81280360)    
 		
 简述     
 ------ 
